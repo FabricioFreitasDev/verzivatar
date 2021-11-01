@@ -14,6 +14,8 @@
   <img height="130em" src="https://github-readme-stats.vercel.app/api?username=verzivatar&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
   <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=verzivatar&layout=compact&langs_count=7&theme=merko"/>
 </div>
+  
+  ## Minhas skills 
   <div style="display: inline_block"><br>
   <img align="center" alt="verzi-Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg"> 
   <img align="center" alt="verzi-Mysql" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
@@ -26,10 +28,10 @@
 ##
   
   
-  
-  
+
+
   <div>
-    <h3 align="left">Siga-me nas redes sociais </h3>
+    <h3 align="left">Meus contatos :iphone:</h3>
      <a href="https://www.youtube.com/channel/UCeKQ7K48wwjd3piQXwKYC5g" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/freitas.ssa" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://web.whatsapp.com/" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
@@ -49,18 +51,22 @@
 
   
   
-  
    <div>  
   
    ![Snake animation](https://github.com/verzivatar/verzivatar/blob/output/github-contribution-grid-snake.svg)
-    
-
-  <h4 align="right"> Visitantes </h4>
-  <img align="right" src="https://profile-counter.glitch.me/verzivatar/count.svg">
-   </div> 
-  
-    
+ 
   </div>
+       
+     
+       
+<p align="center"> 
+
+ ## Total de visitas no meu perfil :detective: <br>
+ <p align="center"> 
+   <img alingn="center" src="https://profile-counter.glitch.me/verzivatar/count.svg" />
+ </p>
+
+</p>
 
   
 
