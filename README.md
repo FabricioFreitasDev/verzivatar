@@ -1,4 +1,4 @@
-## Oii! Eu sou o Fabricio, apaixonado por tecnologia e programação!
+## Olá, eu sou o Fabricio!
 
 - 🔭 Trabalho com Back-End 
 - 💻 Estudando constantemente...                                               
@@ -23,7 +23,7 @@
   <img align="center" alt="verzi-Html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg">
   <img align="center" alt="verzi-Css3" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
     <img align="center" alt="verzi-Css3" height="30" width="60" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
-</div>
+  </div>
   
 ##
   
