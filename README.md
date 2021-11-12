@@ -43,12 +43,16 @@ fabriciofreitasdev@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%2
  
   </div>  
     
-  <div>  
-  <table align="right">
-     <tr><td><a href="README.md"><img src="https://i.imgur.com/0AUV6Hy.png" height="16 align="center">  Português</a></td></tr>
-</table>
-       </div>     
   
+
+  
+       
+   <h3>
+     VAMOS SER AMIGO??
+    
+  <img align="center" alt="GIF code" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="320" />
+</h3>
+ 
 
   
   
@@ -59,6 +63,7 @@ fabriciofreitasdev@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%2
   </div>
        
      
+       
        
 <p align="center"> 
 
