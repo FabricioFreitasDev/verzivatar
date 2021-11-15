@@ -48,7 +48,7 @@ fabriciofreitasdev@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%2
   
        
    <h3>
-     ME REPRESENTA >>>>
+     ME REPRESENTA >>>
     
   <img align="center" alt="GIF code" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="320" />
 </h3>
