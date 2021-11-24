@@ -17,13 +17,17 @@
   
   ## Minhas skills 
   <div style="display: inline_block"><br>
-  <img align="center" alt="verzi-Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg"> 
-  <img align="center" alt="verzi-Phyton" height="30" width="40"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  <img align="center" alt="verzi-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="verzi-Html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg">
-  <img align="center" alt="verzi-Css3" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-  <img align="center" alt="verzi-Mysql" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
-  <img align="center" alt="verzi-Css3" height="30" width="60" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+  <img align="center" alt="verzi-Java" title="Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg"> 
+  <img align="center" alt="verzi-Phyton" title="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  <img align="center" alt="verzi-Git" title="Git" height="40" width="40" src="https://img.icons8.com/color/48/000000/git.png">
+  <img align="center" alt="verzi-Js" title="JavaScript" height="40" width="40" src="https://img.icons8.com/color/50/000000/javascript.png">
+  <img align="center" alt="verzi-Html" title="HTML5" height="40" width="40" src="https://img.icons8.com/color/48/000000/html-5--v1.png">
+  <img align="center" alt="verzi-Css3" title="CSS" height="40" width="40" src="https://img.icons8.com/color/48/000000/css3.png">
+  <img align="center" alt="verzi-Linux" title="Linux" height="40" width="40" src="https://img.icons8.com/color/48/4a90e2/linux.png"> 
+  <img align="center" alt="verzi-Win11" title="Windows" height="40" width="40" src="https://img.icons8.com/color/48/4a90e2/windows-10.svg">
+  <img align="center" alt="verzi-Mysql" title="MySQL" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
+  <img align="center" alt="verzi-NodeJS" title="NedeJS" height="50" width="60" src="https://img.icons8.com/color/48/4a90e2/nodejs.png">
+  <img align="center" alt="VerziSpring" title="Spring" height="40" width="40" src="https://img.icons8.com/color/48/4a90e2/spring-logo.png">
   </div>
   
     
@@ -34,10 +38,7 @@
 
   <div>
     <h3 align="left">Meus contatos :iphone:</h3>
-     <a href="https://www.youtube.com/channel/UCeKQ7K48wwjd3piQXwKYC5g" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/freitas.ssa" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://web.whatsapp.com/" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/vQYWyDAr" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "
 fabriciofreitasdev@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/fabricio-freitasdev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
@@ -49,9 +50,7 @@ fabriciofreitasdev@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%2
   
        
    <h3>
-     ME REPRESENTA >> >>>
-    
-  <img align="center" alt="GIF code" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="320" />
+  <img align="right" alt="GIF code" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="300" height="220" />
 </h3>
  
 
@@ -66,17 +65,18 @@ fabriciofreitasdev@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%2
      
        
        
-<p align="center"> 
+
 
  ## Total de visitas no meu perfil :detective: <br>
- <p align="center"> 
-   <img alingn="center" src="https://profile-counter.glitch.me/verzivatar/count.svg" />
- </p>
+  <div align="center">
+  
+![](https://komarev.com/ghpvc/?username=verzivatar&label=VisitasMeuPerfil&color=green)
 
-</p>
+</div>
+  
+
 
   
 
-  
-  
+ 
   
