@@ -2,8 +2,9 @@
 
 » 🖥️ Estudante Tecnologia                                              
 » 🎼🤘 Heavy Metal
-» Aprendendo coisas novas, sempre
+» Aprendendo coisas novas
 » Curioso...
+
 
 
 
