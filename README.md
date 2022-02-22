@@ -4,12 +4,12 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
 
 
-## Olá, Eu sou o Fabricio!
+## Olá, Eu sou o Fabricio! Sou Apaixonado pelo mundo da Tecnologia.
 
 
-» 🖥️ Estudante Tecnologia 
+» 🖥️ Estudante T.I
 
-» Aprendendo coisas novas
+» Em constantes aprendizado
 
 » Curioso...
 
