@@ -7,7 +7,7 @@
 ## Olá, Eu sou o Fabricio! Sou Apaixonado pelo mundo da Tecnologia.
 
 
-» 🖥️ Estudante T.I
+» 🖥️ Desenvolvedor Python Avançado
 
 » Em constantes aprendizado
 
