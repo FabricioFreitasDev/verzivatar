@@ -7,7 +7,7 @@
 ## Olá, Eu sou o Fabricio! Seja bem vindo(a) ao meu perfil.
 
 
-» 🖥️ Desenvolvedor Python Avançado
+» 🖥️ Desenvolvedor Python 
 
 » Em constantes aprendizado
 
