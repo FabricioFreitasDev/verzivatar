@@ -4,7 +4,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
 
 
-## Olá, Eu sou o Fabricio! Sou Apaixonado pelo mundo da Tecnologia.
+## Olá, Eu sou o Fabricio! Seja bem vindo(a) ao meu perfil.
 
 
 » 🖥️ Desenvolvedor Python Avançado
