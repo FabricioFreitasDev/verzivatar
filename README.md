@@ -17,7 +17,7 @@
 
 
 <div align="center">
-  <a href="https://github.com/verzivatar">
+  <a href="https://github.com/FabricioFreitasDev">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=verzivatar&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=verzivatar&layout=compact&langs_count=7&theme=merko"/>
 </div>
@@ -63,7 +63,7 @@ fabriciofreitasdev@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%2
   
    <div>  
   
-   ![Snake animation](https://github.com/verzivatar/verzivatar/blob/output/github-contribution-grid-snake.svg)
+   ![Snake animation](https://github.com/FabricioFreitasDev/FabricioFreitasDev/blob/output/github-contribution-grid-snake.svg)
  
   </div>
        
@@ -75,7 +75,7 @@ fabriciofreitasdev@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%2
  ## Total de visitas no meu perfil :detective: <br>
   <div align="center">
   
-![](https://komarev.com/ghpvc/?username=verzivatar&label=VisitasMeuPerfil&color=green)
+![](https://komarev.com/ghpvc/?username=FabricioFreitasDev&label=VisitasMeuPerfil&color=green)
 
 </div>
   
